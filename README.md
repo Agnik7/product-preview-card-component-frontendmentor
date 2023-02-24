@@ -17,9 +17,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### What I learned
 
--While doing this challenge, I learnt how to efficiently use media queries, to change the design for different devices, all the while using a single code base.
+- While doing this challenge, I learnt how to efficiently use media queries, to change the design for different devices, all the while using a single code base.
 
--I also learnt to write the HTML code with better semantic tags.
+- I also learnt to write the HTML code with better semantic tags.
 
 ## Author
 
