@@ -14,8 +14,7 @@ body {
   border-radius: 10px;
   display: flex;
   max-width: 35rem;
-  background-color: hsl(0, 0%, 100%);/* 
-  margin: 0 1rem; */
+  background-color: hsl(0, 0%, 100%);
 }
 
 .pic {
