@@ -11,7 +11,8 @@
   <body>
     <main class="card">
       <picture class="pic">
-        <img src="./images/image-product-desktop.jpg" alt="product pic" />
+        <source media="(max-width: 375px)" srcset="./images/image-product-mobile.jpg">
+        <img src="./images/image-product-desktop.jpg" alt="Product Image">
       </picture>
       <section class="details">
         <p class="perfume">PERFUME</p>
@@ -26,7 +27,7 @@
         </div>
 
         <button class="btn">
-          <img src="./images/icon-cart.svg" alt="icon cart" />
+          <img src="./images/icon-cart.svg" alt="" />
           Add to Cart
         </button>
       </section>
