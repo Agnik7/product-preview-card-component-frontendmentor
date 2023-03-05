@@ -5,8 +5,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-product-card-preview-component-using-html5-css3-pPUjk6BNyw)
+- Live Site URL: [Live Site](https://agnik7.github.io/product-preview-card-component-frontendmentor/)
 
 ### Built with
 
